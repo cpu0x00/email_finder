@@ -6,7 +6,7 @@ import re
 
 try:
 
-	api_key = "b6f7d9fdf7e54971b39a551c5635b360469bddd1"
+	api_key = "<YOUR HUNTER.IO API HERE>"
 
 	domain = sys.argv[1]
 
